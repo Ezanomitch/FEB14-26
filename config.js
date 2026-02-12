@@ -33,8 +33,8 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "My Nigga Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            yesBtn: "Ofc my My Nigga!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
