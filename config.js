@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '🦸🏾‍♀️', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '🦸🏾‍♀️', '💗', '💓', '🇬🇭'],  // Heart emojis
         Extras: ['🧸', '🇬🇭']                       // Cute bear emojis
     },
 
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay!YESSIRRR! BRRPP BOP  🎉💝💖💝💓",
+        title: "Yay!YESSIRRR! BRRPP BOP  🎉💖💓",
         message: "A big warm hug and a huge kiss is waiting for you!",
-        emojis: "💋❤️💕 🐐"  // These will bounce around
+        emojis: "💋❤️💕 🐐 🧸 🇬🇭"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/ddekxmsia/video/upload/v1769490341/Future_Metro_Boomin_The_Weeknd_-_All_to_Myself_Official_Audio_hmyxbj.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/ddekxmsia/video/upload/v1770866530/Future_Metro_Boomin_The_Weeknd_-_All_to_Myself_Official_Audio_d4scxc.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
